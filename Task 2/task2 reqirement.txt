@@ -1,0 +1,19 @@
+GEMINI Vision Pro Bot:
+
+GEMINI Vision Pro Bot is a Streamlit-based web app that uses Google's Gemini model to generate text-based responses for user inputs and uploaded images.
+
+Features:
+
+Accepts text prompts and images (JPG, JPEG, PNG).
+Uses Google's Gemini model for content generation.
+Displays the model's interpretation of the uploaded image and input prompt.
+Prerequisites
+
+Install the required libraries:
+pip install streamlit google-generativeai python-dotenv pillow
+
+Running the App
+
+Run the Streamlit app:
+
+streamlit run TASK 2.py
